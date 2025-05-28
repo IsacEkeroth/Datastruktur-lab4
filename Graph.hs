@@ -1,9 +1,10 @@
 module Graph
   ( -- * Edge
-    Edge, -- type
-    src,
-    dst,
-    label, -- querying an Edge
+    Edge (..),
+    -- Edge, -- type
+    -- src,
+    -- dst,
+    -- label, -- querying an Edge
 
     -- * Graph
     Graph, -- type

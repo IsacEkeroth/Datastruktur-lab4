@@ -1,0 +1,4 @@
+Lidköping 0 0
+Göteborg 10 10
+Stockholm 100 100
+Götene 50 50
